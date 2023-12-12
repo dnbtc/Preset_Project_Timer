@@ -1,8 +1,12 @@
-Productivity Timer: PT2.py
+I Make presets for [presetfood.com](presetfood.com) most days and I need to keep track of the current project. 
+Productivity timer for the creation of presets for software synths. 
+
+Productivity Timer: 
 By TC 
+
 This is a very personal productivity timer: but might be some use to someone doing the same kind of stuff as me. 
 
-Productivity timer for the creation of presets for synths. 
+
 I give myself 10 minutes per preset. 
 The preset name is the text in between the number and the name of the preset I am working on. 
 
